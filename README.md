@@ -1,6 +1,7 @@
 # Bookshelf Tracker
 
 
+This was created for Udacity's React Fundamentals course.
 
 ## Running this locally
 
